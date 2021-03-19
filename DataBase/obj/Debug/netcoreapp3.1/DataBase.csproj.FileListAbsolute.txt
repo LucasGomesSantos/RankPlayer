@@ -1,0 +1,12 @@
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\obj\Debug\netcoreapp3.1\DataBase.csprojAssemblyReference.cache
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+D:\Projetos\Projeto KPMG\RankPlayer\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
